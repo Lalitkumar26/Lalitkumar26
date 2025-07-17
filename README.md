@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Lalit Kumar
 
-🎓 B.Tech CSE 2nd Year Student  
+🎓 B.Tech CSE Student  
 💻 Currently learning **Python programming**  
 🛠️ Exploring the world of development step by step
 
